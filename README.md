@@ -57,6 +57,6 @@ El script realiza varias comprobaciones antes de ejecutarse:
 
 Python 3: Verifica que Python 3 esté instalado.  
 Impacket: Verifica que la biblioteca Impacket esté instalada.  
-Archivo secretsdump.py: Comprueba que el archivo secretsdump.py se encuentre en la ruta predeterminada de Kali Linux.  
+Archivo secretsdump.py: Comprueba que el archivo secretsdump.py se encuentre en la ruta predeterminada de Kali.  
 Archivo de usuarios: Verifica que el archivo que contiene los usuarios esté presente y accesible.  
 Conectividad del servidor: Realiza un ping al servidor de destino para comprobar que es accesible.
