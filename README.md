@@ -55,8 +55,8 @@ El script permite obtener contraseñas o hashes para un listado de usuarios de u
 ## Validaciones
 El script realiza varias comprobaciones antes de ejecutarse:
 
-Python 3: Verifica que Python 3 esté instalado.
-Impacket: Verifica que la biblioteca Impacket esté instalada.
-Archivo secretsdump.py: Comprueba que el archivo secretsdump.py se encuentre en la ruta predeterminada de Kali Linux.
-Archivo de usuarios: Verifica que el archivo que contiene los usuarios esté presente y accesible.
+Python 3: Verifica que Python 3 esté instalado.  
+Impacket: Verifica que la biblioteca Impacket esté instalada.  
+Archivo secretsdump.py: Comprueba que el archivo secretsdump.py se encuentre en la ruta predeterminada de Kali Linux.  
+Archivo de usuarios: Verifica que el archivo que contiene los usuarios esté presente y accesible.  
 Conectividad del servidor: Realiza un ping al servidor de destino para comprobar que es accesible.
